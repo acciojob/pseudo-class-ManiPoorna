@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
 .para::before{
 	color : red;
-	content: "Before Element ";
+	content: "Before Element";
 }
 .para::after{
-	content : " After Element";
+	content : "After Element";
 	color : red;
 }
